@@ -111,6 +111,7 @@ rl_deepracer_coach_robomaker.ipynb
 
 ### RLEstimator for training RL jobs
 - RLジョブパラメータを定義する
+- `デフォルトで立ち上がるインスタンスタイプに、無料枠を大きく超えるマシンタイプが指定されているため、必ず書き換えること！`
 
 ### Start the Robomaker job
 - RoboMakerのジョブを開始する
